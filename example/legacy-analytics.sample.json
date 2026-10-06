@@ -1,0 +1,16 @@
+{
+  "hello-world": {
+    "sends": 100,
+    "opens": 54,
+    "clicks": 3,
+    "signups": 1,
+    "paid": 0
+  },
+  "a-second-post": {
+    "sends": 120,
+    "opens": 70,
+    "clicks": 5,
+    "signups": 0,
+    "paid": 0
+  }
+}

@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+
+# Your real exported data / generated lookup — keep it out of the repo.
+# (Commit only the example/ files.)
+*.csv
+*.json
+!example/*.csv
+!example/*.json

@@ -1,0 +1,5 @@
+id,title,url,author,status,created_at,updated_at,published_at,featured,tags,post_access,email_recipients,sends,opens,clicks,signups,paid_conversions
+1a,Hello world,https://www.example.com/hello-world/,Jane Doe,published and emailed,2026-01-02T10:00:00.000Z,2026-01-02T10:00:00.000Z,2026-01-02T10:00:00.000Z,false,"Business, Operations",Public,All subscribers,100,54,3,1,0
+2b,A second post,https://www.example.com/a-second-post/,Jane Doe,published and emailed,2026-01-09T10:00:00.000Z,2026-01-09T10:00:00.000Z,2026-01-09T10:00:00.000Z,false,Opinion,Public,All subscribers,120,70,5,0,0
+3c,Emailed only (no public page),https://www.example.com/email/4d16a359-5b8b-47fd-bc63-c59a0e0a2559/,Jane Doe,emailed only,2026-01-16T10:00:00.000Z,2026-01-16T10:00:00.000Z,2026-01-16T10:00:00.000Z,false,Opinion,Public,All subscribers,90,40,2,0,0
+4d,A draft never emailed,https://www.example.com/a-draft/,Jane Doe,published only,2026-01-23T10:00:00.000Z,2026-01-23T10:00:00.000Z,2026-01-23T10:00:00.000Z,false,Business,Public,,,,,0,0
